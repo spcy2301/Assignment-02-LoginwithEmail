@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677607045156",
+    "project_id": "login-with-email-bcd56",
+    "storage_bucket": "login-with-email-bcd56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677607045156:android:9e50a40c86aba6192f00b1",
+        "android_client_info": {
+          "package_name": "com.example.loginwithemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677607045156-mjt1h7l6k3vshi7vehr5lv6p8oufukve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqY4M8TVY0O-qmE8_G1yJU4g1CgAE3UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677607045156-mjt1h7l6k3vshi7vehr5lv6p8oufukve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
